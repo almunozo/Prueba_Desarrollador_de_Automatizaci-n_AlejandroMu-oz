@@ -1,0 +1,6 @@
+pandas==<ultima_version>
+requests==<ultima_version>
+beautifulsoup4==<ultima_version>
+openpyxl==<ultima_version>
+unittest==<ultima_version>
+os==<ultima_version>
