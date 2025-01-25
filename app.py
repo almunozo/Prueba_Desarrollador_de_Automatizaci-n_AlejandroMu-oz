@@ -165,8 +165,8 @@ if __name__ == "__main__":
     EnvioCorreo.enviar_correo(
         "alejoemunoz2002@gmail.com",
         "ybqe sizu vfgk aryv",  # Contraseña de aplicación
-        "almunozo@unal.edu.co",
-        "Resumen en Excel y CSV",
+        "daniel.diaz@ecorpa.com",
+        "Resumen Prueba Técnica - Alejandro Muñoz Osorio",
         "Hola, adjunto los archivos Excel y CSV con los resúmenes solicitados.",
         ["resumen_productos.xlsx", "productos_mas_vendidos.csv"]
     )
